@@ -8,7 +8,7 @@ int main()
     char str3[] = "Hi";
 
     // Compare str1 and str2
-    printf("%d\n", strcmpZZZ(str1, str2));
+    printf("%d\n", strcmp(str1, str2));
 
     // Compare str1 and str3
     printf("%d", strcmp(str1, str3));
