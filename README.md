@@ -1,2 +1,0 @@
-# BlockSoc
-Repo for BlockSoc
